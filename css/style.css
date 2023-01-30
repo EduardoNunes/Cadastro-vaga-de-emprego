@@ -773,4 +773,45 @@ footer .wrapper:after {
         width: 22%;
     }
 
+    #sendjobs-container {
+        background-position: 35% 0;
+        padding: 10em 0;
+    }
+
+    #sendjobs-container h2 {
+        font-size: 1.5em;
+        width: 100%;
+    }
+
+    #sendjobs-container p {
+        font-size: 1em;
+        width: 100%;
+    }
+
+    .status-box {
+        margin-top: 3em;
+        width: 100%;
+    }
+
+    .status-box:nth-child(1), .status-box:nth-child(3) {
+        border: none;
+    }
+
+    #testmony-container {
+        padding: 5em 0;
+    }
+
+    .testmony-box {
+        width: 100%;
+    }
+
+    #testmony-container p {
+        margin-bottom: 1em;
+    }
+
+    .footer-box {
+        display: block;
+        width: 100%;
+    }
+
 }
